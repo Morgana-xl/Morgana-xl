@@ -36,4 +36,3 @@ Os repositórios deste perfil representam:
 
 ---
 
-🌱 *Perfil em constante evolução, acompanhando minha jornada de aprendizado em dados e sustentabilidade.*
