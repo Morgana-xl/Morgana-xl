@@ -1,7 +1,7 @@
 ## Oi, eu sou Morgana 👋🌸
 
-🎓 Estudante em transição para a área de tecnologia, dados e ESG  
-📊 Este perfil reúne todas as atividades práticas desenvolvidas durante a formação do **Bootcamp de Análise de Dados da DIO em parceria com a Klabin** 🌱  
+🎓 Bacharel em Direito e em transição para a área de tecnologia, dados e ESG  
+📊 Este perfil se iniciou com o escopo de reunir todas as atividades práticas desenvolvidas durante a formação do **Bootcamp de Análise de Dados da DIO em parceria com a Klabin** 🌱
 💻 Aqui você encontrará projetos, exercícios e estudos voltados para análise de dados e aprendizado contínuo  
 
 ---
