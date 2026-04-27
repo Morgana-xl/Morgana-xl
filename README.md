@@ -1,38 +1,17 @@
-## Oi, eu sou Morgana 👋🌸
+Oi, eu sou Morgana 
 
-🎓 Bacharel em Direito e em transição para a área de tecnologia, dados e ESG  
-📊 Este perfil se iniciou com o escopo de reunir todas as atividades práticas desenvolvidas durante a formação do **Bootcamp de Análise de Dados da DIO em parceria com a Klabin** 🌱
-💻 Aqui você encontrará projetos, exercícios e estudos voltados para análise de dados e aprendizado contínuo  
+🌼 Bacharel em Direito, com experiência em organização de processos e governança, em transição para atuação com análise de dados aplicada a operações, compliance e ESG.
 
----
+🌼 Meu foco é transformar dados em informações úteis para melhorar processos, aumentar eficiência e apoiar a tomada de decisão.
 
-### 🌿 Interesses e Objetivos
-- Atuar profissionalmente com **análise de dados ambientais**  
-- Unir tecnologia, dados e sustentabilidade ♻️🌼  
-- Desenvolver soluções que contribuam para impacto socioambiental positivo  
+🌼 Neste perfil você encontrará projetos voltados para:
 
----
+## Análise de dados aplicada a problemas reais de negócio
+## Organização e modelagem de dados (SQL, Star Schema)
+## Criação de dashboards para suporte operacional e estratégico
 
-### 🛠️ Tecnologias e Ferramentas
-- Python 🐍  
-- Power BI 📊  
-- Git & GitHub 🌍  
-- Excel 📈  
-- Lógica de Programação 💡  
+🌱 Interesse crescente em aplicar dados e tecnologia em governança corporativa, compliance e sustentabilidade (ESG)
 
----
+🛠️ Ferramentas: Python | Power BI | Excel | SQL | Git & GitHub
 
-### 📌 Sobre os Projetos
-Os repositórios deste perfil representam:
-- Atividades práticas entregues durante o bootcamp  
-- Exercícios de aprendizado em análise de dados  
-- Projetos voltados para visualização e organização de informações  
-- Estudos iniciais em programação  
-
----
-
-### 🌸 Onde me encontrar
-- LinkedIn: https://www.linkedin.com/in/morganaoliveira000/
-
----
-
+Onde me encontrar: https://www.linkedin.com/in/morganaoliveira000
