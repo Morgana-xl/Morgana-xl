@@ -6,9 +6,9 @@ Oi, eu sou Morgana
 
 🌼 Neste perfil você encontrará projetos voltados para:
 
-## Análise de dados aplicada a problemas reais de negócio
-## Organização e modelagem de dados (SQL, Star Schema)
-## Criação de dashboards para suporte operacional e estratégico
+ Análise de dados aplicada a problemas reais de negócio
+ Organização e modelagem de dados (SQL, Star Schema)
+ Criação de dashboards para suporte operacional e estratégico
 
 🌱 Interesse crescente em aplicar dados e tecnologia em governança corporativa, compliance e sustentabilidade (ESG)
 
